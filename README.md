@@ -16,4 +16,7 @@ This is a simple digital clock created using the Tkinter module in Python.
 * Tkinter module
 
 **Credits**
-* This code was written by [insert your name here]. Special thanks to the Tkinter documentation for assistance with creating the clock display.
+* This code was written by [@cscyberuk](https://www.github.com/cscyberuk). Special thanks to the Tkinter documentation for assistance with creating the clock display.
+
+
+<a rel="license" href="http://creativecommons.org/licenses/by-nc-nd/4.0/"><img alt="Creative Commons License" style="border-width:0" src="https://i.creativecommons.org/l/by-nc-nd/4.0/88x31.png" /></a><br />This work is licensed under a <a rel="license" href="http://creativecommons.org/licenses/by-nc-nd/4.0/">Creative Commons Attribution-NonCommercial-NoDerivatives 4.0 International License</a>.
